@@ -1,6 +1,6 @@
 # 🧠 FaceScan3 HUD Animation
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b039970b-62f9-4c33-8f66-44341f6215e3" />
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/b039970b-62f9-4c33-8f66-44341f6215e3" />
 
 
 ---
