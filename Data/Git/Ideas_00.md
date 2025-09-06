@@ -1,5 +1,8 @@
 # README.md (черновик)
 
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/54c33dfd-16dd-4e53-8ffb-02c5a22679c3" />
+
+
 ```markdown
 # 🧠 FaceScan3 HUD Animation
 
